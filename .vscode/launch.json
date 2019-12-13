@@ -1,0 +1,73 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoArrayList",
+            "request": "launch",
+            "mainClass": "package4.DemoArrayList",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoDateTime",
+            "request": "launch",
+            "mainClass": "package4.DemoDateTime",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoInnerClass",
+            "request": "launch",
+            "mainClass": "package1.DemoInnerClass",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoScanner",
+            "request": "launch",
+            "mainClass": "package1.DemoScanner",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoArray",
+            "request": "launch",
+            "mainClass": "package1.DemoArray",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo3",
+            "request": "launch",
+            "mainClass": "package1.Demo3",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo2",
+            "request": "launch",
+            "mainClass": "package1.Demo2",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "package1.Demo",
+            "projectName": "myjavaproj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo1",
+            "request": "launch",
+            "mainClass": "package1.Demo1",
+            "projectName": "myjavaproj"
+        }
+    ]
+}
